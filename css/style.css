@@ -1,0 +1,32 @@
+@font-face {
+    font-family: "Raleway Heavy";
+    src: url("../fonts/Raleway-Heavy.eot") format("eot"),
+        url("../fonts/Raleway-Heavy.woff") format("woff"),
+        url("../fonts/Raleway-Heavy.ttf") format("truetype");
+
+    font-weight: normal;
+    font-style: normal;
+}
+
+#topNubex {
+    position: fixed;
+    right: 45px;
+    bottom: 45px;
+}
+
+#topNubex:hover {
+    cursor: pointer;
+}
+
+
+
+body,
+html {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Raleway', sans-serif;
+    color: #262626;
+}

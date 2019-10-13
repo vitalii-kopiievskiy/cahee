@@ -1,0 +1,36 @@
+.about {
+    background-color: #00b1b1;
+}
+
+.about__image {
+    margin-top: 34px;
+    margin-left: -50px;
+    padding-bottom: 22px;
+
+}
+
+.about__content {
+    color: white;
+    line-height: 27px;
+}
+
+
+.about__title {
+    font-size: 90px;
+    font-weight: 700;
+    margin-top: 201px;
+    margin-left: 70px;
+}
+
+.about__text {
+    font-size: 17px;
+    font-weight: 300;
+    line-height: 27px;
+    margin-top: 46px;
+    margin-left: 70px;
+}
+
+.about__text-in {
+    margin-left: 70px;
+    padding-top: 12px;
+}

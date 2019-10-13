@@ -1,0 +1,136 @@
+.blog {
+
+    background-color: #b07cf7;
+    color: white;
+    margin-top: 90px;
+}
+
+
+
+.blog-title {
+    font-size: 90px;
+    font-weight: 700;
+    text-align: center;
+    margin-top: 90px;
+}
+
+.blog-text {
+    font-size: 17px;
+    font-weight: 300;
+    line-height: 25px;
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 46px;
+}
+
+.link__date {
+    width: 60px;
+    height: 60px;
+    opacity: 0.5;
+    background-color: #262626;
+    border-radius: 5px;
+    margin-top: 12px;
+    margin-left: 30px;
+}
+
+.blog-link {
+    display: block;
+    width: 100%;
+    height: 100%;
+    z-index: 100;
+
+}
+
+.link-title {
+    line-height: 25px;
+    font-size: 20px;
+    font-weight: 700;
+}
+
+.link-text {
+    line-height: 25px;
+    font-size: 13px;
+    font-weight: 300;
+}
+
+.link__number {
+    font-size: 32px;
+    font-weight: 700;
+    line-height: 25px;
+}
+
+.link__month {
+    font-size: 21px;
+    font-weight: 800;
+    line-height: 25px;
+}
+
+
+.blog-button {
+    width: 200px;
+    height: 55px;
+    background-color: #f72b3b;
+    border: none;
+    margin-top: 50px;
+    margin-bottom: 120px;
+
+}
+
+.blog-button:hover {
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.5);
+}
+
+
+
+.blog-button[value="VIEW MORE"] {
+    color: white;
+    font-size: 20px;
+    font-weight: 300;
+    line-height: 25px;
+
+}
+
+.blog__link {
+    height: 310px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+
+
+}
+
+.blog__link:hover {
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.5);
+}
+
+.link__number,
+.link__month {
+    text-align: center;
+}
+
+.link__number {
+    padding-top: 4px;
+}
+
+.link__month {
+    padding-top: 2px;
+}
+
+.link__content {
+    padding-left: 20px;
+    padding-top: 80px;
+}
+
+.link-text {
+    margin-top: 14px;
+}
+
+
+.link__content {
+    z-index: 90;
+}
+
+.link__element {
+    position: absolute;
+
+}
